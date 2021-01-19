@@ -1,0 +1,57 @@
+
+
+
+
+	
+	<!DOCTYPE html> 
+	<html lang="fr"> 
+	<head> 
+	<link href="new 3.css" rel="stylesheet"> 
+
+	<link rel= "icon" type="image/jpg" href="image/maneee.jpg" /> 
+
+	<title> Page Web de Clovis</title> 
+	</head> 
+	<body style="background-image:url(d.png)"> 
+	<div class="texte"> 
+	<h1> Sadio Mané </h1> 
+	</div> 
+	<div class="image"> 
+	<img src="sadioo.png"> 
+	</div>
+    </div> 
+	<div class="imageballonn"> 
+	<img src="ballonn.png"> 
+	</div>
+	</div> 
+	<div class="imageballon"> 
+	<img src="ballonn.png"> 
+	</div>
+	</br> 
+	<h2 style="color:red;">Identité :</h2> 
+	<p>Sadio Mané est née le 10 avril 1992 à Bambali au Sénégal. Il vécut dans une communauté rurale du sud du Sénégal avant de fuguer de chez lui. 
+	</p> 
+	</br> 
+	<h3 style="color:red;">Passion :</h3> 
+	<p>La passion de Sadio Mané est le football. Il voue une grande admiration au footballeur brésilien Ronaldinho et pour l'international sénégalais El-Hadji Diouf, qu'il considère comme ses modèles. Son père ne veut pas qu’il joue au football et donc à l’âge de 15 ans, le jeune Mané fugue pour tenter de vivre de sa passion. Désormais, il fait partie des meilleurs joueurs au monde en évoluant au poste d’ailier au Liverpool FC et il joue également dans l’équipe international du Sénégal. Il n'a pas eu une enfance facile et éprouve également de l'affection envers son pays. En effet, Sadio donne la majorité de son argent à l'Afrique. 
+	</p> 
+	<a href="https://fr.wikipedia.org/wiki/Football">Football</a> 
+
+	</br> 
+	</br> 
+	<h4 style="color:red;">Palmarès :</h4> 
+	<Ol> 
+	<li> <h10 style="color:red;">Soulier d'or du meilleur buteur d'Angleterre</h10> en 2019</li> 
+	<li> <h7 style="color:red;">Joueur africain de l'année</h7> en 2020</li> 
+	<li> <h8 style="color:red;">Vainqueur de la Ligue des Champions</h8> en 2019</li> 
+	</Ol> 
+	</br> 
+	<div class="slogan"> 
+	<h5 style=" color:red;">Découvrez un joueur partit de rien pour arriver au plus haut</h5> 
+	<a href="videomane.mp4" title="Action Mané ">Mané en action</a> 
+
+	</div> 
+	</body> 
+	</html> 
+	
+
